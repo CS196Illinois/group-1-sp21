@@ -1,7 +1,7 @@
 # Group TEAM_NUMBER
 Group Name: Group 1
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link](https://docs.google.com/document/d/1JrpdqkHnGN7eAEpAD0S3lx0fhYE7_uE7y885c6Es880/edit?usp=sharing)
 
 Team Members: 
 1. egchen2
