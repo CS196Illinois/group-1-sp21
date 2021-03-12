@@ -5,9 +5,7 @@ Group Name: Group 1
 
 Team Members: 
 1. egchen2
-2. kaizhuo2
-3. jbradw2
-4. yushanc2
+2. jbradw2
 
 Project Manager: 
 1. tanishq3
