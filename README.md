@@ -13,3 +13,4 @@ Project Manager:
 
 Project Description: 
 
+A tool to determine the likely characteristics of a litter born to particular dogs by applying machine learning to help in that goal of predicting likely traits and developing it into an Android app to make it a useful tool for other people to use.
